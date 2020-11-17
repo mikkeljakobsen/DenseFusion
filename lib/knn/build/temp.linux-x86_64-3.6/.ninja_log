@@ -1,0 +1,4 @@
+# ninja log v5
+0	500	1605621073703272048	/home/mikkel/workspace/pose_estimation/DenseFusion/lib/knn/build/temp.linux-x86_64-3.6/home/mikkel/workspace/pose_estimation/DenseFusion/lib/knn/src/cuda/knn.o	9f882fa341cfd3f6
+0	6245	1605621079447264624	/home/mikkel/workspace/pose_estimation/DenseFusion/lib/knn/build/temp.linux-x86_64-3.6/home/mikkel/workspace/pose_estimation/DenseFusion/lib/knn/src/cpu/knn_cpu.o	ea1ade19ae03cdd2
+0	10612	1605621083811258829	/home/mikkel/workspace/pose_estimation/DenseFusion/lib/knn/build/temp.linux-x86_64-3.6/home/mikkel/workspace/pose_estimation/DenseFusion/lib/knn/src/vision.o	5b0b2a9493754943
