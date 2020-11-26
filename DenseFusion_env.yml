@@ -1,11 +1,11 @@
-name: uois3d
+name: densefusion
 channels:
   - pytorch
   - defaults
 dependencies:
   - python=3.6
-  - cudatoolkit=9.0
-  - pytorch=1.0
+  - cudatoolkit=10.2
+  - pytorch=1.6
   - torchvision
   - jupyter
   - pip
